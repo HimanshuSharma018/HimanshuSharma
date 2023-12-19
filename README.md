@@ -4,12 +4,12 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/@HimnshuSharmA)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshusharma018&label=Profile%20views&color=0e75b6&style=flat" alt="himanshusharma018" /> </p>
+
 
 
 <h3 align="center">A Passionate Frontend Developer From India🇮🇳</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJ">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshusharma018&label=Profile%20views&color=0e75b6&style=flat" alt="himanshusharma018" /> </p>
 
 
 
