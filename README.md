@@ -1,8 +1,21 @@
-<h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><h1 align="center">Hi ❤️, I'm Himanshu Sharma</h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Himanshu_Sharma)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://himanshu.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/himanshusharma)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/himanshusharma2875)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://himanshu-sharma.medium.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/himnshusharma)
+
+
+
+
+
+
 
 <h3 align="center">A Passionate Frontend Developer From India🇮🇳</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJ">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshusharma01&label=Profile%20views&color=0e75b6&style=flat" alt="himanshusharma018" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshusharma018&label=Profile%20views&color=0e75b6&style=flat" alt="himanshusharma018" /> </p>
 
 - 🌱 I’m currently learning **Coding**
 
