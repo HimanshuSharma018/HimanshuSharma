@@ -1,8 +1,8 @@
-### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Himanshu Sharma</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 <h3 align="center">A Passionate Frontend Developer From India🇮🇳</h3>
 
-<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://images.app.goo.gl/khGovKgcrTT4EUUw9)">
+<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://images.app.goo.gl/txg4TptM7e76cTuZ6)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshusharma01&label=Profile%20views&color=0e75b6&style=flat" alt="himanshusharma018" /> </p>
 
