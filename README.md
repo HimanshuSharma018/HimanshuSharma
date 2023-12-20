@@ -32,12 +32,16 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,heroku,typescript,firebase,mongodb,c,java,nextjs,flask" /><br>
 
+</div>
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+ 
+  <br/><br/>
+</div>
 
-
-
-
-
-
-
+<hr/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusharma01&show_icons=true&locale=en" alt="himanshusharma01" /></p>
