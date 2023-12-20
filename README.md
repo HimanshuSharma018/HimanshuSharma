@@ -13,15 +13,31 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshusharma018&label=Profile%20views&color=0e75b6&style=flat" alt="himanshusharma018" /> </p>
 
-<h3 align="center">A Passionate Frontend Developer From India🇮🇳</h3>
+<h2 align="center">A Passionate Frontend Developer From India🇮🇳</h2>
 
 
-<img align="right" alt="coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJ">
+<img align="right" alt="coding" width="200" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJ">
 
 
 - 🌱 I’m currently learning **Coding**
 
 - ⚡ Fun fact **I am Very Funny😜😅**
+
+</div>
+
+<hr/>
+
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<br/> <div align="left"> 
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,heroku,typescript,firebase,mongodb,c,java,nextjs,flask" /><br>
+
+
+
+
+
+
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusharma01&show_icons=true&locale=en" alt="himanshusharma01" /></p>
